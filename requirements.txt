@@ -1,0 +1,4 @@
+fastapi==0.85.2
+uvicorn==0.20.0
+llama-cpp-python==0.2.53
+PyYAML==6.0.1
